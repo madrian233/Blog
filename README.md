@@ -1,7 +1,7 @@
-# Blog of Song Kong
-This is a Jekyll theme called Ice bear.
+# 小熊的记事
+这里是小熊的秘密日记喔
 
-To learn how to install and use this theme, please check out the [installation guide](http://kongsong.me/blog/ice-bear-jekyll-theme/) for more information.
+今天七夕 你要快快乐乐的喔
 
 ## License
-This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
+希望你每天都幸福快乐
